@@ -72,3 +72,8 @@ Solution: create free account to opensky-network.org and pass authentication hea
 
 Display backlight bleed in dark rooms: the screen remains continuously illuminated even when no aircraft are in range
 Solution: add timer in loop() that dims the screen backlight pin after 5 minutes(desired time) of inactive waking it up by switch press. 
+
+# Credits
+* **[OpenSky Network](https://opensky-network.org/)** - For providing free live ADS-B flight data via REST API
+* **[TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)** - Display driver library by Bodmer for driving the GC9A01 screen over SPI
+* **[Hack Club Forge](https://forge.hackclub.com/)** - For supporting projects
