@@ -65,6 +65,7 @@ update your local WIFI SSID , password and your desk exact location lon,lat coor
 | PLA Filament ~40g | 1 | $1 | Self printed |
 | 28AWG Silicone Stranded Wire Set | 1 | $5 | https://robu.in/product/pro-range-28awg-silicone-wire-kit-5colors-x-5m25m/ |
 | USB-C Cable (Power Data) | 1 | $3 | https://www.amazon.in/boAt-Charging-Transfer-Tangle-Free-Premium/dp/B0FMRLJ9LF/ref=sr_1_3?dib=eyJ2IjoiMSJ9.t6lfHNEBa_Tei_6mBPivsbFkSU8TuxUSBKN7-zmbzoq_MiK3C2RbvzpuyYVL9KhJsy1gOAe6-52xIVkY7LHv-acYnfWDWBDblETAHYT7UCDB94DpCOgq4BzADc5Yy0Ivp697fZfdMe1XDbRH5sTuITvjHDuse-QmK-c1-J7_ZqcvSaI7tN6HxZTrToR09xfgjvJHFVGv37ZODbV7-MF4gYbVVlQB_Chc1_QxDNbw8Bs.A64j5Q6nt-mD7K39a95e216q-y0OOMjUOUVO1vFQ2mQ&dib_tag=se&keywords=usb%2Bc%2Bcharging%2Bcable&qid=1791645581&sr=8-3&th=1 |
+| Total cost | Aprox. ~$18.031 | | |
 
 # Known Issues 
 Open sky network rate limit: unregistered API request can occassionally return HTTP code 429 during peak hours.
