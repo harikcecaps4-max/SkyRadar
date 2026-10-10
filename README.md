@@ -7,19 +7,19 @@ SkyRadar is a compact USB-C powered desktop flight tracker built with an ESP32-C
 # CAD design
 3D enclosure model made with custom two piece enclosure featuring a 45 degree slanted viewing angle with press fit usb acess and near cap for push button.
 
-<img width="78" height="120" alt="Screenshot 2026-10-10 at 6 03 03 PM" src="https://github.com/user-attachments/assets/7fadffda-2773-402e-b1ce-146f6c8a5dcf" />
+<img width="494" height="653" alt="Screenshot 2026-10-10 at 11 09 54 PM" src="https://github.com/user-attachments/assets/817748e7-e591-4411-8686-51777c8ac17f" />
 
 type-c extrude at back of rectangle and push button extrude at the rectangle base cover 
 
-i<img width="87" height="123" alt="Screenshot 2026-10-10 at 6 04 05 PM" src="https://github.com/user-attachments/assets/06df49f3-9534-44fd-8b98-16ac5f639bf9" />
+<img width="625" height="625" alt="Screenshot 2026-10-10 at 11 10 57 PM" src="https://github.com/user-attachments/assets/2a6158df-2186-48f9-a22c-6ef1306f0072" />
 
 cover at the back for product 
 
-<img width="208" height="257" alt="Screenshot 2026-10-10 at 6 25 27 PM" src="https://github.com/user-attachments/assets/8343b84d-eb13-4da1-b0f1-1a7ba4b7c782" />
+<img width="530" height="499" alt="Screenshot 2026-10-10 at 11 11 45 PM" src="https://github.com/user-attachments/assets/b792a34c-022e-40b2-929a-79987239f8fd" />
 
 # Circuit
 
-<img width="279" height="408" alt="Screenshot 2026-10-10 at 6 14 56 PM" src="https://github.com/user-attachments/assets/38957682-dd62-4d13-ab90-d65d263f433d" />
+<img width="545" height="644" alt="Screenshot 2026-10-10 at 11 14 27 PM" src="https://github.com/user-attachments/assets/49a6be98-7902-460a-a4fb-7c8b4d232c2b" />
 
 full pinout and wiring created in cirkitdesigner
 https://app.cirkitdesigner.com/
