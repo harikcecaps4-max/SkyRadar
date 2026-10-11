@@ -63,7 +63,7 @@ update your local WIFI SSID , password and your desk exact location lon,lat coor
 | 1.28" GC9A01 Round LCD Display Module (240x240 SPI) | 1 | $5 | https://robu.in/product/goldenmorning-gc9a01-7p-240x240-spi-1-28-inch-round-display-module/ |
 | 6x6mm Tactile Push Button | 1 | $0.031 | https://robu.in/product/6x6x5mm-tactile-push-button-switch-pack-of-20/ |
 | PLA Filament ~40g | 1 | $1 | Self printed |
-| 28AWG Silicone Stranded Wire Set | 1 | $5 | https://robu.in/product/pro-range-28awg-silicone-wire-kit-5colors-x-5m25m/ |
+| 28AWG Silicone Stranded Wire Set (OPTIONAL) | 1 | $5 | https://robu.in/product/pro-range-28awg-silicone-wire-kit-5colors-x-5m25m/ |
 | USB-C Cable (Power Data) | 1 | $3 | https://www.amazon.in/boAt-Charging-Transfer-Tangle-Free-Premium/dp/B0FMRLJ9LF/ref=sr_1_3?dib=eyJ2IjoiMSJ9.t6lfHNEBa_Tei_6mBPivsbFkSU8TuxUSBKN7-zmbzoq_MiK3C2RbvzpuyYVL9KhJsy1gOAe6-52xIVkY7LHv-acYnfWDWBDblETAHYT7UCDB94DpCOgq4BzADc5Yy0Ivp697fZfdMe1XDbRH5sTuITvjHDuse-QmK-c1-J7_ZqcvSaI7tN6HxZTrToR09xfgjvJHFVGv37ZODbV7-MF4gYbVVlQB_Chc1_QxDNbw8Bs.A64j5Q6nt-mD7K39a95e216q-y0OOMjUOUVO1vFQ2mQ&dib_tag=se&keywords=usb%2Bc%2Bcharging%2Bcable&qid=1791645581&sr=8-3&th=1 |
 | Total cost | Aprox. ~$18.031 | | |
 
