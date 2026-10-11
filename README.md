@@ -1,4 +1,4 @@
-# SkyRadar
+ # SkyRadar
 SkyRadar is a compact USB-C powered desktop flight tracker built with an ESP32-C3 SuperMini and a 1.28" GC9AO1 round LCD. It pulls live ADS-B aviation data over wifi,calculates real-time polar coordinates relative to your desk , and renders a sweeping radar scope showing nearby aircraft , callsign , and plane model.
 
 # Why I Built this
